@@ -38,6 +38,8 @@ export default function Home({ blogs, topics }) {
           property="og:image"
           content="https://raw.githubusercontent.com/aryanstha4419/Code Chronicles/main/Extra/sc.png"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9365874053852589"
+        crossorigin="anonymous"></script>
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://aryanstha.me/" />
