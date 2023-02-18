@@ -1,6 +1,4 @@
 # Code-Chronicles
-## Writing own blogs made easier for everyone!
-
 <h2 align="center">
   <a href="https://code-chronicles.vercel.app/" target="_blank">Visit Site</a>
 </h2>
