@@ -65,4 +65,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### Show your support
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+<a href="https://www.buymeacoffee.com/ajty97921p" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
