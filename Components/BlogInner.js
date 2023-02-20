@@ -25,7 +25,7 @@ function BlogInner({ data, content, headings }) {
               ))}
             </div>
             <a className="block mt-2 text-2xl sm:text-4xl font-semibold text-gray-800 dark:text-gray-100">
-              {data.Title}
+              {data.Author}
             </a>
 
             <p className="text-5xl pt-2">
