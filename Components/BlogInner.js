@@ -43,7 +43,7 @@ function BlogInner({ data, content, headings }) {
                 </p>
                 <p className="text-2xl pb-2">Thanks for reading!!!</p>
                 <p className="mx-2 font-semibold text-gray-700 dark:text-gray-100">
-                  aryanstha
+                  {data.Author}
                 </p>
                 <p className="text-sm font-medium leading-4 text-gray-600 dark:text-gray-200">
                   Author
